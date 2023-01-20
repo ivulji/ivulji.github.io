@@ -494,7 +494,7 @@ function initSolonick() {
     if ($("#twitts-container").length > 0) {
         var config1 = {
             "profile": {
-                "screenName": 'envatomarket'
+                "screenName": 'kpubone'
             },
             "domId": 'twitts-container',
             "maxTweets": 2,
